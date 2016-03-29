@@ -1,0 +1,769 @@
+{
+"maleartists": [
+{
+"maleartistindex": 1,
+
+"maleartistname": "Justin Bieber",
+"maleartistchannelname": "JustinBieberVEVO",
+"maleartistthumbnail": "http://rumbabogota.com/media/blog/uploads/justin_bieber_bogota_newsthumb.png"
+},
+{
+"maleartistindex": 2,
+
+"maleartistname": "Eminem",
+"maleartistchannelname": "EminemVEVO",
+"maleartistthumbnail": "http://static.starity.hu/images/celebs/200x300/eminem-1223.jpg"
+},
+{
+"maleartistindex": 3,
+
+"maleartistname": "Enrique Iglesias",
+"maleartistchannelname": "EnriqueIglesiasVEVO",
+"maleartistthumbnail": "http://static.dnaindia.com/images/cache/1750484.jpg"
+},
+{
+"maleartistindex": 4,
+
+"maleartistname": "Chris Brown",
+"maleartistchannelname": "ChrisBrownVEVO",
+"maleartistthumbnail": "http://neonlimelight.com/wp-content/uploads/2011/04/breezytyeo-250x200.jpg"
+},
+{
+"maleartistindex": 5,
+
+"maleartistname": "LMFAO",
+"maleartistchannelname": "LMFAOVEVO",
+"maleartistthumbnail": "http://neonlimelight.com/wp-content/uploads/2012/01/lmfao2nd-250x200.jpg"
+},
+{
+"maleartistindex": 6,
+
+"maleartistname": "Bruno Mars",
+"maleartistchannelname": "ElektraRecords",
+"maleartistthumbnail": "http://dammit.com.br/wp-content/uploads/2012/01/imagemdestacadabrunomars.jpg"
+},
+{
+"maleartistindex": 7,
+
+"maleartistname": "Michael Jackson",
+"maleartistchannelname": "michaeljacksonVEVO",
+"maleartistthumbnail": "http://www.kippreport.com/wp-content/uploads/2010/07/250-200-michael-jackson.jpg"
+},
+{
+"maleartistindex": 8,
+
+"maleartistname": "David Guetta",
+"maleartistchannelname": "davidguettavevo",
+"maleartistthumbnail": "http://www1.pictures.zimbio.com/mp/stCXnxvvW0jm.jpg"
+},
+{
+"maleartistindex": 9,
+
+"maleartistname": "Pitbull",
+"maleartistchannelname": "PitbullVEVO",
+"maleartistthumbnail": "http://media.rumbacaracas.com/image_cache/uploads/news/2011/04/28/pitbull1-x_1_1_newsthumb.jpg"
+},
+{
+"maleartistindex": 10,
+
+"maleartistname": "William",
+"maleartistchannelname": "williamVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/_d6W32xuEAyPlf_KmvvwEA/mq1.jpg?v=51bf926e?feature=og"
+},
+{
+"maleartistindex": 11,
+
+"maleartistname": "Lil Wayne",
+"maleartistchannelname": "LilWayneVEVO",
+"maleartistthumbnail": "http://www.thesource4ym.com/images/Lil-Wayne.jpg"
+},
+{
+"maleartistindex": 12,
+
+"maleartistname": "50Cent",
+"maleartistchannelname": "50CentVEVO",
+"maleartistthumbnail": "http://i1.ytimg.com/i/0sL86jDLgs2fGRD-XBnPQA/mq1.jpg?v=4efa6866"
+},
+{
+"maleartistindex": 13,
+
+"maleartistname": "Maroon5",
+"maleartistchannelname": "Maroon5VEVO",
+"maleartistthumbnail": "http://s.itncdn.com/img/artist/users/AndrewGustavo/917-240-fdfsfs.jpg"
+},
+{
+"maleartistindex": 14,
+
+"maleartistname": "Kanye West",
+"maleartistchannelname": "KanyeWestVEVO",
+"maleartistthumbnail": "http://file023.bebo.com/10/mediuml/2007/03/26/15/1561892108a3934700547b423381780ml.jpg"
+},
+{
+"maleartistindex": 15,
+
+"maleartistname": "Don Omar",
+"maleartistchannelname": "DonOmarVEVO",
+"maleartistthumbnail": "http://cdn2.moda.com.pe/sites/default/files/styles/240x240/public/don_omar-radiomoda.jpg"
+},
+{
+"maleartistindex": 16,
+
+"maleartistname": "Jason Derulo",
+"maleartistchannelname": "JasonDerulo",
+"maleartistthumbnail": "http://file052.bebo.com/16/mediuml/2010/07/16/20/10658533588a12651261378ml.jpg"
+},
+{
+"maleartistindex": 17,
+
+"maleartistname": "Usher",
+"maleartistchannelname": "UsherVEVO",
+"maleartistthumbnail": "http://media1.onsugar.com/files/2012/06/25/3/192/1922398/48210ccf36322c18_Usher.larger/i/Get-Wined-Dined-Usher.jpg"
+},
+{
+"maleartistindex": 18,
+
+"maleartistname": "Akon",
+"maleartistchannelname": "AkonVEVO",
+"maleartistthumbnail": "http://www.loudmusic247.com/images/music/akon.jpg"
+},
+{
+"maleartistindex": 19,
+
+"maleartistname": "Jonas Brothers",
+"maleartistchannelname": "JonasBrothersMusic",
+"maleartistthumbnail": "http://media.tumblr.com/776675a65a24113c10d5d47b98343598/tumblr_inline_mof1kbA9BX1qz4rgp.png"
+},
+{
+"maleartistindex": 20,
+
+"maleartistname": "Flo Rida",
+"maleartistchannelname": "officialflo",
+"maleartistthumbnail": "http://image.mp3.zdn.vn/thumb/240_240/avatars/e/d/edf5f0a5182634fc280551e0b3910804_1345220131.jpg"
+},
+{
+"maleartistindex": 21,
+
+"maleartistname": "Wisin Y Yandel",
+"maleartistchannelname": "WisinYYandelVEVO",
+"maleartistthumbnail": " https://si0.twimg.com/profile_images/3021310350/402fae3e90416fcb9a7988ee875d3e23.jpeg "
+},
+{
+"maleartistindex": 22,
+
+"maleartistname": "NeYo",
+"maleartistchannelname": "NeYoVEVO",
+"maleartistthumbnail": " http://file046.bebo.com/8/mediuml/2009/01/12/07/6487899699a9852791820ml.jpg "
+},
+{
+"maleartistindex": 23,
+
+"maleartistname": "Bon Jovi",
+"maleartistchannelname": "BonJoviVEVO",
+"maleartistthumbnail": " http://www.mcvuk.com/cimages/92366a71e2db3b0e413c2b988869e2d4.jpg "
+},
+{
+"maleartistindex": 24,
+
+"maleartistname": "Nelly",
+"maleartistchannelname": "NellyVEVO",
+"maleartistthumbnail": " http://www2.pictures.zimbio.com/mp/ZZeNMA5x6-Cm.jpg "
+},
+{
+"maleartistindex": 25,
+
+"maleartistname": "Taio Cruz",
+"maleartistchannelname": "TaioCruzVEVO",
+"maleartistthumbnail": " http://www4.pictures.zimbio.com/mp/pHpU7Dun1d2m.jpg "
+},
+{
+"maleartistindex": 26,
+
+"maleartistname": "Kurt Hugo Schneider",
+"maleartistchannelname": "KurtHugoSchneider",
+"maleartistthumbnail": " http://i1.ytimg.com/i/1o6BwvWKjIjnenziaLXtlw/mq1.jpg?v=51ae3f6d "
+},
+{
+"maleartistindex": 27,
+
+"maleartistname": "Timbaland",
+"maleartistchannelname": "TimbalandVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/rHeROKlt3iOzhZHRV2oYkg/mq1.jpg?v=4efca26b "
+},
+{
+"maleartistindex": 28,
+
+"maleartistname": "Soulja Boy Tellem",
+"maleartistchannelname": "SouljaBoyTellemVEVO",
+"maleartistthumbnail": " http://i4.ytimg.com/i/K5Z4cLoPQrbOXVsrD7Vigw/mq1.jpg?v=4efa2a29?feature=og "
+},
+{
+"maleartistindex": 29,
+
+"maleartistname": "Gotye",
+"maleartistchannelname": "gotyemusic",
+"maleartistthumbnail": " http://fast-images.picyou.com/images/c8WDUz/small_c8WDUz.jpg "
+},
+{
+"maleartistindex": 30,
+
+"maleartistname": "Guns N Roses",
+"maleartistchannelname": "GunsNRosesVEVO",
+"maleartistthumbnail": " http://s.itncdn.com/img/artist/Guns-N'-Roses-(2)---artist.jpg "
+},
+{
+"maleartistindex": 31,
+
+"maleartistname": "Drake",
+"maleartistchannelname": "DrakeVEVO",
+"maleartistthumbnail": " http://i2.wp.com/urbsocietymagazine.com/wp-content/uploads/2013/05/drake1.jpg?resize=240%2C240 "
+},
+{
+"maleartistindex": 32,
+
+"maleartistname": "Coldplay",
+"maleartistchannelname": "ColdplayVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/47Xz8LVxEJBX5gmkW9mALQ/mq1.jpg?v=50f05197 "
+},
+{
+"maleartistindex": 33,
+
+"maleartistname": "One Direction",
+"maleartistchannelname": "OneDirectionVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/bW18JZRgko_mOGm5er8Yzg/mq1.jpg?v=c99850 "
+},
+{
+"maleartistindex": 34,
+
+"maleartistname": "Linkin Park",
+"maleartistchannelname": "linkinparktv",
+"maleartistthumbnail": "http://image.mp3.zdn.vn/thumb/240_240/avatars/f/4/f47fe8534f68254cc04d91e75d595e53_1332585127.jpg"
+},
+
+{
+"maleartistindex": 35,
+
+"maleartistname": "Justin Timberlake",
+"maleartistchannelname": "justintimberlakeVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/sXfDf1CDgU3SCt0gxJNXGg/mq1.jpg?v=50f826e8 "
+},
+{
+"maleartistindex": 36,
+
+"maleartistname": "Calvin Harris",
+"maleartistchannelname": "CalvinHarrisVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/aHNFIob5Ixv74f5on3lvIw/mq1.jpg?v=5088092a "
+},
+{
+"maleartistindex": 37,
+
+"maleartistname": "Daft Punk",
+"maleartistchannelname": "DaftPunkVEVO",
+"maleartistthumbnail": " http://www.revistametronomo.com/wordpress/wp-content/uploads/2013/05/Random-Access-Memories1-240x240.jpg "
+},
+{
+"maleartistindex": 38,
+
+"maleartistname": "Daddy Yankee",
+"maleartistchannelname": "DaddyYankeeVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/5cqeAzY9MJBiSuAtOlv6LQ/mq1.jpg?v=50462c91 "
+},
+{
+"maleartistindex": 39,
+
+"maleartistname": "Swedish House Mafia",
+"maleartistchannelname": "SHMVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/tHY_7BXK9Bn3Dp3cjBgCLA/mq1.jpg?v=50c66697 "
+},
+{
+"maleartistindex": 40,
+
+"maleartistname": "Avicii",
+"maleartistchannelname": "AviciiOfficialVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/1SqP7_RfOC9Jf9L_GRHANg/mq1.jpg?v=d9962f "
+},
+{
+"maleartistindex": 41,
+
+"maleartistname": "Austin Mahone",
+"maleartistchannelname": "AustinMVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/dT7yHXJ-D7GzGiuDzDKM9w/mq1.jpg?v=5127fda5 "
+},
+{
+"maleartistindex": 42,
+
+"maleartistname": "The Script",
+"maleartistchannelname": "TheScriptVEVO",
+"maleartistthumbnail": " http://www.audioprointernational.com/cimages/989c4e4f7ee8130e721cd9191403c7f6.jpg "
+},
+{
+"maleartistindex": 43,
+
+"maleartistname": "Nirvana",
+"maleartistchannelname": "NirvanaVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/yNG5Hwk0JaZSOVwlBM_dfQ/mq1.jpg?v=51d4c385 "
+},
+{
+"maleartistindex": 44,
+
+"maleartistname": "The Wanted",
+"maleartistchannelname": "thewantedVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/SrHWAPjZ-fGPhknzVU6NGw/mq1.jpg?v=51cc9152 "
+},
+{
+"maleartistindex": 45,
+
+"maleartistname": "Romeo Santos",
+"maleartistchannelname": "RomeoSantosVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/NnwYefwrkVBAbMUzLpxbEQ/mq1.jpg?v=4ef91f08 "
+},
+{
+"maleartistindex": 46,
+
+"maleartistname": "System of a Down",
+"maleartistchannelname": "systemofadownVEVO",
+"maleartistthumbnail": " http://file012.bebo.com/14/mediuml/2006/06/28/05/14470826a1213979742b645123516ml.jpg "
+},
+{
+"maleartistindex": 47,
+
+"maleartistname": "30 Seconds to Mars",
+"maleartistchannelname": "30SecondsToMarsVEVO",
+"maleartistthumbnail": "http://i1.ytimg.com/i/6ljvocrnN_0hA3PXr7W5rw/mq1.jpg?v=514a3a04 "
+},
+{
+"maleartistindex": 48,
+
+"maleartistname": "Owl City",
+"maleartistchannelname": "OwlCityVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/V-UW3I3mXakSoqV8SpF1sg/mq1.jpg?v=bb4d19 "
+},
+{
+"maleartistindex": 49,
+
+"maleartistname": "Olly Murs",
+"maleartistchannelname": "OllyMursVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/TuoeG42RwJW8y-JU6TFYtw/mq1.jpg?v=50742967 "
+},
+{
+"maleartistindex": 50,
+
+"maleartistname": "Camila",
+"maleartistchannelname": "camilaVEVO",
+"maleartistthumbnail": " http://files.clubplanet.com/SiteFiles/ArticleImages/7626/Camila_Hispanic_Heritage_Mo.jpg "
+},
+{
+"maleartistindex": 51,
+
+"maleartistname": "Imagine Dragons",
+"maleartistchannelname": "ImagineDragonsVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/px_k19S2vUutWUUM9qmXEg/mq1.jpg?v=4f96c229 "
+},
+{
+"maleartistindex": 52,
+
+"maleartistname": "One Republic",
+"maleartistchannelname": "OneRepublicVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/Q5kHOKpF3-1_UCKaqXARRg/mq1.jpg?v=4efa6a3d "
+},
+{
+"maleartistindex": 53,
+
+"maleartistname": "Ludacris",
+"maleartistchannelname": "LudacrisVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/pytoPautrCCR3AynOemHhg/mq1.jpg?v=4efa6c30 "
+},
+{
+"maleartistindex": 54,
+
+"maleartistname": "Snoop Dogg",
+"maleartistchannelname": "SnoopDoggVEVO",
+"maleartistthumbnail": " http://blog.nola.com/hittinthetown/2009/05/medium_snoop-dogg.jpg "
+},
+{
+"maleartistindex": 55,
+
+"maleartistname": "Foster The People",
+"maleartistchannelname": "fosterthepeopleVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/6R1juCB5ArnJGMmUlEE_fg/mq1.jpg?v=4ee2558b "
+},
+{
+"maleartistindex": 56,
+
+"maleartistname": "Foo Fighters",
+"maleartistchannelname": "foofightersVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/GRjJrpD2bmk9Ilq6nq80qg/mq1.jpg?v=4efb9637?feature=og "
+},
+{
+"maleartistindex": 57,
+
+"maleartistname": "Tyga",
+"maleartistchannelname": "TygaVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/hXnu0HBydqedqhnClp0rJg/mq1.jpg?v=51706cd0 "
+},
+{
+"maleartistindex": 58,
+
+"maleartistname": "The Killers",
+"maleartistchannelname": "TheKillersVEVO",
+"maleartistthumbnail": "http://i1.ytimg.com/i/jB3CzA-MwHrDzuXGweNiMg/mq1.jpg?v=50119cc3 "
+},
+{
+"maleartistindex": 59,
+
+"maleartistname": "2 Chainz",
+"maleartistchannelname": "2ChainzVEVO",
+"maleartistthumbnail": " http://i1.wp.com/urbsocietymagazine.com/wp-content/uploads/2013/06/2-Chainz-Robbery-Video.jpg?resize=240%2C240 "
+},
+{
+"maleartistindex": 60,
+
+"maleartistname": "Rick Ross",
+"maleartistchannelname": "RickRossVEVO",
+"maleartistthumbnail": " http://i1.ytimg.com/i/dLf5_x-4eic2Hw-uovjdKA/mq1.jpg?v=4efb98f5 "
+}
+],
+"femaleartists": [
+{
+"femaleartistindex": 1,
+"femaleartistname": "Rihanna",
+"femaleartistchannelname": "RihannaVEVO",
+"femaleartistthumbnail": "http://data3.whicdn.com/images/29452704/large.png"
+},
+{
+"femaleartistindex": 2,
+"femaleartistname": "Beyonce",
+"femaleartistchannelname": "beyonceVEVO",
+"femaleartistthumbnail": " http://www.fansites.de/image/stars/84.1329258463.beyonce-knowles.jpg "
+},
+{
+"femaleartistindex": 3,
+"femaleartistname": "Taylor Swift",
+"femaleartistchannelname": "TaylorSwiftVEVO",
+"femaleartistthumbnail": "http://topyaps.com/wp-content/uploads/2012/07/Taylor-Swift.jpeg"
+},
+{
+"femaleartistindex": 4,
+"femaleartistname": "Lady Gaga",
+"femaleartistchannelname": "LadyGagaVEVO",
+"femaleartistthumbnail": " http://teenvoice.co.id/wp-content/uploads/2012/03/lady-gaga.jpg "
+},
+{
+"femaleartistindex": 5,
+"femaleartistname": "Shakira",
+"femaleartistchannelname": "shakiraVEVO",
+"femaleartistthumbnail": " http://ihdwallpapers.com/thumbs/2013/06/12/shakira_truth_or_dare-t1.jpg"
+},
+{
+"femaleartistindex": 6,
+"femaleartistname": "Jennifer Lopez",
+"femaleartistchannelname": "JenniferLopezVEVO",
+"femaleartistthumbnail": " http://www.iphonehdwallpapers.com/upload/201111/01/attractive-jennifer-lopez-photo-for-iphone-4s-6-06622-200x300.jpg"
+},
+{
+"femaleartistindex": 7,
+"femaleartistname": "Britney Spears",
+"femaleartistchannelname": "BritneySpearsVEVO",
+"femaleartistthumbnail": " http://cdn.3news.co.nz/3news/AM/2012/10/15/272749/britney-spears.jpg?width=460"
+},
+{
+"femaleartistindex": 8,
+"femaleartistname": "Katy Perry",
+"femaleartistchannelname": "KatyPerryVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/-8Q-hLdECwQmaWNwXitYDw/mq1.jpg?v=4fd7d378"
+},
+{
+"femaleartistindex": 9,
+"femaleartistname": "Nicki Minaj",
+"femaleartistchannelname": "NickiMinajAtVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/aum3Yzdl3TbBt8YUeUGZLQ/mq1.jpg?v=50194fdc"
+},
+{
+"femaleartistindex": 10,
+
+"femaleartistname": "Avril Lavigne",
+"femaleartistchannelname": "AvrilLavigneVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/C6XuDtfec7DxZdUa7ClFBQ/mq1.jpg?v=5164551f"
+},
+{
+"femaleartistindex": 11,
+"femaleartistname": "Black Eyed Peas",
+"femaleartistchannelname": "BlackEyedPeasVEVO",
+"femaleartistthumbnail": " http://i1.ytimg.com/i/rwmu-gceGOmtZeuTsn7DlQ/mq1.jpg?v=4ef8dfe2 "
+},
+
+{
+"femaleartistindex": 12,
+"femaleartistname": "Adele",
+"femaleartistchannelname": "AdeleVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/omP_epzeKzvBX156r6pm1Q/mq1.jpg?v=4ef8ddbd"
+},
+{
+"femaleartistindex": 13,
+
+"femaleartistname": "Mariah Carey",
+"femaleartistchannelname": "MariahCareyVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/lS0wn3LPs9jdX_yt2g1k8w/mq1.jpg?v=518c11e4"
+},
+{
+"femaleartistindex": 14,
+
+"femaleartistname": "Pink",
+"femaleartistchannelname": "PinkVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/XJDX1KK6t121Z9FLhu5o2A/mq1.jpg?v=8704d4"
+},
+{
+"femaleartistindex": 15,
+
+"femaleartistname": "The Pussycat Dolls",
+"femaleartistchannelname": "ThePussycatDollsVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/iA9R5n9sR06RgGGigkY5RA/mq1.jpg?v=4efb796a"
+},
+{
+"femaleartistindex": 16,
+
+"femaleartistname": "Christina Aguilera",
+"femaleartistchannelname": "CAguileraVEVO",
+"femaleartistthumbnail": "https://i1.ytimg.com/i/lx2ih2Nx8enGmsMsA6C3BQ/mq1.jpg?v=5050db43"
+},
+{
+"femaleartistindex": 17,
+
+"femaleartistname": "Selena Gomez",
+"femaleartistchannelname": "SelGomez",
+"femaleartistthumbnail": "http://data2.whicdn.com/images/62441784/large.png"
+},
+{
+"femaleartistindex": 18,
+
+"femaleartistname": "Demi Lovato",
+"femaleartistchannelname": "DemiLovatoVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/nyB9MYKRkSFK3IIB32CoVw/mq1.jpg?v=5134e129"
+},
+{
+"femaleartistindex": 19,
+
+"femaleartistname": "Jessie J",
+"femaleartistchannelname": "JessieJVEVO",
+"femaleartistthumbnail": "http://data1.whicdn.com/images/18497985/large.png"
+},
+{
+"femaleartistindex": 20,
+
+"femaleartistname": "Carly Rae Jepsen",
+"femaleartistchannelname": "CarlyRaeJepsenVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/tKuVNj4wVrZvTfxPxAUHcQ/mq1.jpg?v=51c103c1"
+},
+{
+"femaleartistindex": 21,
+
+"femaleartistname": "Lana Del Rey",
+"femaleartistchannelname": "LanaDelReyVEVO",
+"femaleartistthumbnail": "http://i4.ytimg.com/i/7rbEcqLFxf_YHx9IsZPebw/mq1.jpg"
+},
+{
+"femaleartistindex": 22,
+
+"femaleartistname": "Little Mix",
+"femaleartistchannelname": "littlemixVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/ssD3_aDYhaG44mwP53CO0w/mq1.jpg?v=5093fd0f"
+},
+{
+"femaleartistindex": 23,
+
+"femaleartistname": "Kesha",
+"femaleartistchannelname": "keshaVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/9HnKwLco0wfmmHJT4KOjJw/mq1.jpg?v=4ef91922"
+},
+{
+"femaleartistindex": 24,
+
+"femaleartistname": "Bridgit Mendler",
+"femaleartistchannelname": "BridgitMendlerVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/dIcKFzitA4mdVu_dMcmTmw/mq1.jpg?v=500dc25f"
+},
+{
+"femaleartistindex": 25,
+
+"femaleartistname": "Alicia Keys",
+"femaleartistchannelname": "aliciakeysVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/ETZ7r1_8C1DNFDO-7UXwqw/mq1.jpg?v=4fecba3e"
+},
+{
+"femaleartistindex": 26,
+
+"femaleartistname": "Miley Cyrus",
+"femaleartistchannelname": "MileyCyrusVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/dI8evszfZvyAl2UVCypkTA/mq1.jpg?v=51acb0fa"
+},
+{
+"femaleartistindex": 27,
+
+"femaleartistname": "Evanescence",
+"femaleartistchannelname": "EvanescenceVEVO",
+"femaleartistthumbnail": "http://24.media.tumblr.com/b36e67b31451a94a427e8c3c3d09bf5d/tumblr_mh5ar6K0Nt1s21ez2o1_250.png"
+},
+{
+"femaleartistindex": 28,
+
+"femaleartistname": "Kelly Clarkson",
+"femaleartistchannelname": "kellyclarksonVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/6QdZ-5j9t_836_xJPAaRSw/mq1.jpg?v=51a51f9e"
+},
+{
+"femaleartistindex": 29,
+
+"femaleartistname": "Florence Machine",
+"femaleartistchannelname": "FlorenceMachineVEVO",
+"femaleartistthumbnail": "http://i2.ytimg.com/i/A5ZOJIojb-C7adg9IjIlWg/mq1.jpg"
+},
+{
+"femaleartistindex": 30,
+
+"femaleartistname": "Ciara",
+"femaleartistchannelname": "CiaraVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/ypRipZQkVU_TZYa6WgSMvg/mq1.jpg?v=516d379a"
+},
+{
+"femaleartistindex": 31,
+
+"femaleartistname": "Ellie Goulding",
+"femaleartistchannelname": "EllieGouldingVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/vu362oukLMN1miydXcLxGg/mq1.jpg?v=50476e33"
+},
+{
+"femaleartistindex": 32,
+
+"femaleartistname": "JenniRivera",
+"femaleartistchannelname": "JenniRiveraVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/U3Poqto62jnrMSxar2YnPQ/mq1.jpg?v=4f0b61ae?feature=og"
+},
+{
+"femaleartistindex": 33,
+
+"femaleartistname": "Carrie Underwood",
+"femaleartistchannelname": "carrieunderwoodVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/KTgj8r-wp80wJgDxhc6jpA/mq1.jpg?v=50be8a81"
+},
+{
+"femaleartistindex": 34,
+
+"femaleartistname": "Black Veil Brides Army",
+"femaleartistchannelname": "BVBArmyVEVO",
+"femaleartistthumbnail": "http://www.billboard.com/photos/stylus/108997-black_veil_brides_617_409.jpg"
+},
+{
+"femaleartistindex": 35,
+
+"femaleartistname": "Emmy Rossum",
+"femaleartistchannelname": "EmmyRossumVEVO",
+"femaleartistthumbnail": "http://data2.whicdn.com/images/64472573/large.png"
+},
+{
+"femaleartistindex": 36,
+
+"femaleartistname": "Kylie Minogue",
+"femaleartistchannelname": "KylieMinogueVEVO",
+"femaleartistthumbnail": "http://file045.bebo.com/13/mediuml/2008/01/22/09/2620265842a6683907609ml.jpg"
+},
+{
+"femaleartistindex": 37,
+
+"femaleartistname": "Dev",
+"femaleartistchannelname": "DevVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/_ZTX-lwUaoeK-l9gmMB4EA/mq1.jpg?v=a745f8"
+},
+{
+"femaleartistindex": 38,
+
+"femaleartistname": "Lady Antebellum",
+"femaleartistchannelname": "LadyAntebellumVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/lcR5Ho9kfnj40zaN1enC-Q/mq1.jpg?v=c0cf44"
+},
+{
+"femaleartistindex": 39,
+
+"femaleartistname": "Nelly Furtado",
+"femaleartistchannelname": "NellyFurtadoVEVO",
+"femaleartistthumbnail": "http://image.mp3.zdn.vn/thumb/240_240/avatars/7/6/7634c2e1e7c3529fb8bca6c242b35ffe_1353671161.jpg"
+},
+{
+"femaleartistindex": 40,
+
+"femaleartistname": "Nicole Scherzinger",
+"femaleartistchannelname": "NScherzingerVEVO",
+"femaleartistthumbnail": "http://i2.ytimg.com/i/Ewu-ZJUeyXr13JLwkR2RRA/mq1.jpg?v=515ac11c"
+},
+{
+"femaleartistindex": 41,
+
+"femaleartistname": "Nicola Roberts",
+"femaleartistchannelname": "NicolaRobertsVeVo",
+"femaleartistthumbnail": "http://data1.whicdn.com/images/15718236/Nicola+Roberts+NicolaDaily01_large.png"
+},
+{
+"femaleartistindex": 42,
+
+"femaleartistname": "Shontelle",
+"femaleartistchannelname": "ShontelleVEVO",
+"femaleartistthumbnail": "http://g3.gimg.me/clipimage/artist/240/000/157/157012.jpg"
+},
+{
+"femaleartistindex": 43,
+
+"femaleartistname": "Jessie James",
+"femaleartistchannelname": "JessieJamesVEVO",
+"femaleartistthumbnail": "http://g1.gimg.me/clipimage/artist/240/000/159/159168.jpg"
+},
+{
+"femaleartistindex": 44,
+
+"femaleartistname": "Hilary Duff",
+"femaleartistchannelname": "hilaryduffofficial",
+"femaleartistthumbnail": "http://media.tumblr.com/tumblr_mdunq4B0S41rv62bo.png"
+},
+{
+"femaleartistindex": 45,
+
+"femaleartistname": "Christina Perri",
+"femaleartistchannelname": "lovemspenny",
+"femaleartistthumbnail": "http://g2.gimg.me/clipimage/artist/240/000/194/194889.jpg"
+},
+{
+"femaleartistindex": 46,
+
+"femaleartistname": "Miranda Lambert",
+"femaleartistchannelname": "mirandalambertVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/MNJ63oR69YW1zL5-fB1muA/mq1.jpg?v=50f44b7c"
+},
+{
+"femaleartistindex": 47,
+
+"femaleartistname": "Emeli Sande",
+"femaleartistchannelname": "EmeliSandeVEVO",
+"femaleartistthumbnail": "http://i1.ytimg.com/i/9J4cBgrKRQG_1Qv99dSbSg/mq1.jpg?v=4eeb3e2f"
+},
+{
+"femaleartistindex": 48,
+
+"femaleartistname": "Faith Hill",
+"femaleartistchannelname": "faithhill",
+"femaleartistthumbnail": "http://i3.ytimg.com/i/rgWiquB-NYsL3O6D-Lm9_A/mq1.jpg?v=516c399c"
+},
+{
+"femaleartistindex": 49,
+
+"femaleartistname": "Mary J Blige",
+"femaleartistchannelname": "MaryJBligeVEVO",
+"femaleartistthumbnail": "http://farm8.staticflickr.com/7002/6472277517_24600a158e_m.jpg"
+},
+{
+"femaleartistindex": 50,
+
+"femaleartistname": "Cover Drive",
+"femaleartistchannelname": "CoverDriveVEVO",
+"femaleartistthumbnail": "http://25.media.tumblr.com/tumblr_m61222bXtW1ru89cio1_250.gif"
+}
+]
+
+}
+
